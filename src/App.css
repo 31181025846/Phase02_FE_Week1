@@ -1,0 +1,49 @@
+.App {
+  margin: auto;
+  padding:auto;
+}
+.container{
+  max-width: max-content;
+}
+.navbar{
+  background-color:#CF2338;
+  height: auto;
+  display:inline-block;
+}
+.navbar-nav {
+  display: inline-block;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.navbrand-item{
+  font-size: 38px;
+  font-weight: bold;
+  color:white;
+  text-decoration: none;
+  margin:auto;
+  justify-content: left; 
+  position:relative;
+  display:inline-block;
+  right: 500px;
+}
+.nav-item {
+  font-size: 1.5rem;
+  color: white;
+  text-decoration: none;
+  margin: auto;
+  justify-content: left;
+  position: relative;
+  display: inline-block;
+  padding-right: 10px;
+}
+.footer{
+  position:absolute;
+   bottom:0;
+   left:0;
+   width:100%;
+   height:60px;
+   margin-top: auto; 
+}
+
+
